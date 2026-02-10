@@ -3,7 +3,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h2>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lieXU0ejV6eWN4Zm0xYzZqeTJqZXFkeHo1bjdhbW9rOHZlbzU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="230"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhjMm5sMnl4bGowZTc0bWtoZWY0N25rZjJleHd4d3JwcmZhNGZyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 
 <p>
 <em>Analista de Soluções na <a target="_blank" href="https://www.instagram.com/systemdigital/">System Digital</a></em>
@@ -22,7 +22,15 @@
 
 <h3>🛠️ Tecnologias & Stack</h3>
 
-<p>
+
+<div>
+  <ul>
+    <li><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></li>
+  <ul>
+</div>
+
+
+<!-- <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,7 +51,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
+</p> -->
 
 <hr/>
 
