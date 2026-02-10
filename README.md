@@ -7,6 +7,7 @@
 
 <p>👨‍💻 | Analista de Soluções na <a href="https://www.instagram.com/systemdigital/"><em>System Digital</em></a></p>
 
+<h3>👋 Sobre Mim</h3>
 <p>Formado em Análise e Desenvolvimento de Sistemas, atuo no mapeamento de requisitos, validação de regras de negócio e garantia da qualidade das soluções em todo o ciclo do produto.</p>
 <p>Trabalho de forma próxima ao time técnico, contribuindo com testes, identificação de falhas, otimização de fluxos e promovendo maior clareza técnica entre as áreas de produto, suporte e desenvolvimento.</p>
 <p>Estou em evolução contínua para o desenvolvimento <strong>Full Stack</strong>, com foco em aplicações web, integrações backend e modelagem e uso de bancos de dados, sempre buscando soluções eficientes, escaláveis e bem estruturadas.</p>
@@ -31,21 +32,17 @@
     <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
-
 <hr/>
 
 <h3>📌 Foco de Atuação</h3>
-<ul>
-  <li>Análise funcional e técnica de sistemas</li>
-  <li>Testes de qualidade e validação de entregas</li>
-  <li>Integração entre regras de negócio e tecnologia</li>
-  <li>Apoio técnico ao desenvolvimento e à tomada de decisão</li>
-  <li>Visão de produto aplicada a sistemas comerciais e corporativos</li>
-</ul>
+  <ul>
+    <li>Análise funcional e técnica de sistemas</li>
+    <li>Testes de qualidade e validação de entregas</li>
+    <li>Integração entre regras de negócio e tecnologia</li>
+    <li>Apoio técnico ao desenvolvimento e à tomada de decisão</li>
+    <li>Visão de produto aplicada a sistemas comerciais e corporativos</li>
+  </ul>
 <hr/>
 
 <h3>🚀 Objetivo Profissional</h3>
-<p>
-  Atuar como desenvolvedor Full Stack, participando da construção de soluções 
-  robustas, bem estruturadas e alinhadas às necessidades reais do negócio.
-</p>
+<p>Atuar como desenvolvedor Full Stack, participando da construção de soluções robustas, bem estruturadas e alinhadas às necessidades reais do negócio.</p>
